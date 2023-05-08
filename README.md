@@ -13,8 +13,6 @@ Website - HTML, CSS, JS.
 
 ## GLIMPSE -
 
-live on - https://medsaathi.ghsharma.repl.co
-
 <HR>
 
 <img src="https://user-images.githubusercontent.com/95496933/229335232-cbae498e-ff10-4084-adea-f0f875dd63d4.jpeg" style="width:20vw; float:left; flex-direction: row;">
